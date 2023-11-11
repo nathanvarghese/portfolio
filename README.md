@@ -8,7 +8,7 @@
 
 ## Work Experience
 ## Experience
-- **Graduate Teaching Facilitator** <div style="text-align: right"> *August 2023 - Present* </div>
+- **Graduate Teaching Facilitator** <div style=“text-align: right”> This text will be right-aligned. </div>
   - *Department of Aerospace Engineering Sciences, CU Boulder*  <div style="text-align: right"> *Boulder, CO* </div>
   - *Assist with grading, office hours, and invigilation for a class of 174 students in ASEN 3711 - Aerodynamics.*
 
