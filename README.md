@@ -1,3 +1,18 @@
+### Hi there 👋, My name is Nathan
+#### I am Aerospace engineer with a focus in autonomous systems
+![I am Aerospace engineer with a focus in autonomous systems](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
 # Aerospace Engineer
 
 #### Technical Skills: Python, MATLAB, C++
