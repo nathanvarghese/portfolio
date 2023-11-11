@@ -1,20 +1,36 @@
-# Data Scientist
+# Aerospace Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, MATLAB, C++
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Aerospace Engineering	| University of Colorado, Boulder (Expected 2025) 			        		
+- B.Tech., Aerospace Engineering | Maharashtra Institute of Technology (MIT ADT) (2022)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Experience
+- **Graduate Teaching Facilitator**
+  - *Department of Aerospace Engineering Sciences, CU Boulder*
+  - *August 2023 -- Present*
+  - *Boulder, CO*
+  - *Assist with grading, office hours, and invigilation for a class of 174 students in ASEN 3711 - Aerodynamics.*
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- **Junior Research Fellow**
+  - *Department of Aerospace Engineering, MIT ADT*
+  - *November 2022 -- April 2023*
+  - *Pune, India*
+  - *Proposed a high-speed dynamic test setup for both large and small solid rocket motors at High Energy Materials Research Laboratories (HEMRL) to study the effects of spin on combustion characteristics.*
+
+- **Research Intern**
+  - *Armament Research and Development Establishment*
+  - *May 2021 -- August 2022*
+  - *Pune, India*
+  - *ARDE awarded $56,000 for the development of a rapid high-speed centrifugal fragment launcher for experimental material research.*
+
+- **Project Intern**
+  - *High Energy Materials Research Laboratories*
+  - *November 2021 -- December 2021*
+  - *Pune, India*
+  - *Led a team of 9 members to design and develop an exhibition model showcasing a vertical static rocket motor test bed.*
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
