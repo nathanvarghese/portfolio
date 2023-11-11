@@ -2,11 +2,17 @@
 
 # Hi, I am Nathan Varghese
 
+I'm a MS Aerospace engineering student with a focus on autonomous systems. I am enthusiastic about the field of planning and decision making. Here are some of my p
+
+
 ## Education
 - M.S., Aerospace Engineering	| University of Colorado, Boulder (Expected 2025) 			        		
 - B.Tech., Aerospace Engineering | Maharashtra Institute of Technology Arts, Design & Technology (MIT ADT) (2022)
 
-#### Technical Skills: Python, MATLAB, C++
+#### Technical Skills 
+- **Programming:** Python, MATLAB, C++, C, Simulink, LateX
+- **Design and Simulation:** SolidWorks, Fusion 360, Creo, ANSYS, Blender, Webots
+- **Manufacturing:** 3D printing, mill, drill, lathe, laser cutting, welding, vertical machining center, GD&T
 
 ## Work Experience
 - **Graduate Teaching Facilitator**
