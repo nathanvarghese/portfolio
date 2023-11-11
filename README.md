@@ -8,7 +8,7 @@
 
 ## Work Experience
 ## Experience
-- **Graduate Teaching Facilitator**<style>body {text-align: right} LALAL </style>
+- **Graduate Teaching Facilitator** This text is aligned to the right. {: style="text-align: right"}
   - *Department of Aerospace Engineering Sciences, CU Boulder*  <div style="text-align: right"> *Boulder, CO* </div>
   - *Assist with grading, office hours, and invigilation for a class of 174 students in ASEN 3711 - Aerodynamics.*
 
