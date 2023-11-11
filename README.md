@@ -1,15 +1,17 @@
-### Hi there 👋,  I'm Nathan Varghese
+
+
+##### Nathan Varghese
 
 #### Technical Skills: Python, MATLAB, C++
 
 ## Education
 - M.S., Aerospace Engineering	| University of Colorado, Boulder (Expected 2025) 			        		
-- B.Tech., Aerospace Engineering | Maharashtra Institute of Technology (MIT ADT) (2022)
+- B.Tech., Aerospace Engineering | Maharashtra Institute of Technology Arts, Design & Technology (MIT ADT) (2022)
 
 ## Work Experience
 ## Experience
-- **Graduate Teaching Facilitator** This text is aligned to the right. {: style="text-align: right"}
-  - *Department of Aerospace Engineering Sciences, CU Boulder*  <div style="text-align: right"> *Boulder, CO* </div>
+- **Graduate Teaching Facilitator**
+  - *Department of Aerospace Engineering Sciences, CU Boulder*
   - *Assist with grading, office hours, and invigilation for a class of 174 students in ASEN 3711 - Aerodynamics.*
 
 - **Junior Research Fellow**
