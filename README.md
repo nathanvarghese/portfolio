@@ -9,7 +9,6 @@
 - B.Tech., Aerospace Engineering | Maharashtra Institute of Technology Arts, Design & Technology (MIT ADT) (2022)
 
 ## Work Experience
-## Experience
 - **Graduate Teaching Facilitator**
   - *Department of Aerospace Engineering Sciences, CU Boulder*
   - *Assist with grading, office hours, and invigilation for a class of 174 students in ASEN 3711 - Aerodynamics.*
